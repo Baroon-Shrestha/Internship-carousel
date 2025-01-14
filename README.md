@@ -34,13 +34,19 @@ cd Internship-carousel
 
 ### 3. Run the project
 
+for macOs
+
 ```bash
 open index.html
 ```
 
+for windows
+
 ```bash
 start index.html
 ```
+
+for linux
 
 ```bash
 xdg-open index.html
